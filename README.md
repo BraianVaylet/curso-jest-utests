@@ -1,4 +1,4 @@
-# Jest
+# 📝 Notas del curso: Jest y test unitarios.
 
 ## ¿Qué es un test?
 
